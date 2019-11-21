@@ -1,0 +1,6953 @@
+{
+    "0": {
+        "exits": {
+            "n": 10,
+            "s": 2,
+            "e": 4,
+            "w": 1
+        },
+        "items": [],
+        "title": "A brightly lit room",
+        "description": "You are standing in the center of a brightly lit room. You notice a shop to the west and exits to the north, south and east.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": []
+    },
+    "1": {
+        "exits": {
+            "e": 0
+        },
+        "items": [],
+        "title": "Shop",
+        "description": "You are standing in a small shop. A sign behind the mechanical shopkeeper says 'WILL PAY FOR TREASURE'.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "2": {
+        "exits": {
+            "n": 0,
+            "s": 6,
+            "e": 3
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "3": {
+        "exits": {
+            "s": 9,
+            "e": 5,
+            "w": 2
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are at the base of a large, looming mountain.",
+        "elevation": 1,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked east.",
+            "Uphill Penalty: 5s CD"
+        ]
+    },
+    "4": {
+        "exits": {
+            "n": 23,
+            "e": 13,
+            "w": 0
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "5": {
+        "exits": {
+            "w": 3
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "6": {
+        "exits": {
+            "n": 2,
+            "w": 7
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "7": {
+        "exits": {
+            "n": 8,
+            "e": 6,
+            "w": 56
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "8": {
+        "exits": {
+            "s": 7,
+            "w": 16
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "9": {
+        "exits": {
+            "n": 3,
+            "s": 12,
+            "e": 11
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 2,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked south.",
+            "Uphill Penalty: 5s CD"
+        ]
+    },
+    "10": {
+        "exits": {
+            "n": 19,
+            "s": 0,
+            "w": 43
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "11": {
+        "exits": {
+            "e": 17,
+            "w": 9
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are at the base of a large, looming mountain.",
+        "elevation": 1,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "12": {
+        "exits": {
+            "n": 9,
+            "s": 18,
+            "e": 14,
+            "w": 21
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 3,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked south.",
+            "Uphill Penalty: 5s CD"
+        ]
+    },
+    "13": {
+        "exits": {
+            "e": 15,
+            "w": 4
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "14": {
+        "exits": {
+            "s": 34,
+            "e": 37,
+            "w": 12
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 2,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked north.",
+            "Uphill Penalty: 5s CD"
+        ]
+    },
+    "15": {
+        "exits": {
+            "w": 13
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "16": {
+        "exits": {
+            "n": 58,
+            "e": 8,
+            "w": 67
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "17": {
+        "exits": {
+            "n": 24,
+            "e": 42,
+            "w": 11
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "18": {
+        "exits": {
+            "n": 12,
+            "s": 22,
+            "w": 25
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 4,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked south.",
+            "Uphill Penalty: 5s CD"
+        ]
+    },
+    "19": {
+        "exits": {
+            "n": 20,
+            "s": 10,
+            "w": 77
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "20": {
+        "exits": {
+            "n": 63,
+            "s": 19,
+            "e": 27,
+            "w": 46
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "21": {
+        "exits": {
+            "e": 12,
+            "w": 29
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 2,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "22": {
+        "exits": {
+            "n": 18,
+            "s": 78,
+            "w": 36
+        },
+        "items": [],
+        "title": "The Peak of Mt. Holloway",
+        "description": "You are standing at the zenith of Mt. Holloway. You see before you a holy shrine erected in the image of a magnificent winged deity.",
+        "elevation": 5,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked south.",
+            "Uphill Penalty: 5s CD"
+        ]
+    },
+    "23": {
+        "exits": {
+            "s": 4,
+            "e": 26
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "24": {
+        "exits": {
+            "s": 17
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "25": {
+        "exits": {
+            "e": 18
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 3,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "26": {
+        "exits": {
+            "e": 55,
+            "w": 23
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "27": {
+        "exits": {
+            "n": 40,
+            "s": 28,
+            "e": 30,
+            "w": 20
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "28": {
+        "exits": {
+            "n": 27
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "29": {
+        "exits": {
+            "s": 45,
+            "e": 21,
+            "w": 49
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are at the base of a large, looming mountain.",
+        "elevation": 1,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "30": {
+        "exits": {
+            "s": 31,
+            "e": 32,
+            "w": 27
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "31": {
+        "exits": {
+            "n": 30,
+            "e": 33
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "32": {
+        "exits": {
+            "n": 39,
+            "e": 54,
+            "w": 30
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "33": {
+        "exits": {
+            "e": 38,
+            "w": 31
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "34": {
+        "exits": {
+            "n": 14,
+            "s": 50,
+            "e": 35
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are at the base of a large, looming mountain.",
+        "elevation": 1,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked west.",
+            "Uphill Penalty: 5s CD"
+        ]
+    },
+    "35": {
+        "exits": {
+            "s": 52,
+            "w": 34
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "36": {
+        "exits": {
+            "s": 48,
+            "e": 22,
+            "w": 60
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 4,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked east.",
+            "Uphill Penalty: 5s CD"
+        ]
+    },
+    "37": {
+        "exits": {
+            "w": 14
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are at the base of a large, looming mountain.",
+        "elevation": 1,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "38": {
+        "exits": {
+            "s": 59,
+            "e": 66,
+            "w": 33
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "39": {
+        "exits": {
+            "n": 53,
+            "s": 32,
+            "e": 51,
+            "w": 41
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "40": {
+        "exits": {
+            "s": 27
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "41": {
+        "exits": {
+            "e": 39
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "42": {
+        "exits": {
+            "n": 44,
+            "s": 80,
+            "e": 118,
+            "w": 17
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "43": {
+        "exits": {
+            "e": 10,
+            "w": 47
+        },
+        "items": [
+            "shiny treasure",
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "44": {
+        "exits": {
+            "s": 42
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "45": {
+        "exits": {
+            "n": 29,
+            "s": 60
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 2,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked south.",
+            "Uphill Penalty: 5s CD"
+        ]
+    },
+    "46": {
+        "exits": {
+            "e": 20,
+            "w": 62
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "47": {
+        "exits": {
+            "n": 71,
+            "e": 43
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "48": {
+        "exits": {
+            "n": 36,
+            "s": 105,
+            "w": 149
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 3,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "49": {
+        "exits": {
+            "s": 79,
+            "e": 29,
+            "w": 136
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "50": {
+        "exits": {
+            "n": 34,
+            "s": 89
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "51": {
+        "exits": {
+            "n": 69,
+            "e": 57,
+            "w": 39
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "52": {
+        "exits": {
+            "n": 35,
+            "s": 68,
+            "e": false
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "53": {
+        "exits": {
+            "n": 95,
+            "s": 39,
+            "w": 88
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "54": {
+        "exits": {
+            "w": 32
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "55": {
+        "exits": {
+            "w": 26
+        },
+        "items": [],
+        "title": "Wishing Well",
+        "description": "You are standing besides a large well. A sign next the well reads 'EXAMINE WELL, FIND WEALTH'.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "56": {
+        "exits": {
+            "e": 7,
+            "w": 61
+        },
+        "items": [
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "57": {
+        "exits": {
+            "e": 145,
+            "w": 51
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "58": {
+        "exits": {
+            "s": 16,
+            "w": 65
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "59": {
+        "exits": {
+            "n": 38,
+            "s": 104,
+            "e": 92
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "60": {
+        "exits": {
+            "n": 45,
+            "e": 36,
+            "w": 70
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 3,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked south.",
+            "Uphill Penalty: 5s CD"
+        ]
+    },
+    "61": {
+        "exits": {
+            "e": 56,
+            "w": 171
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "62": {
+        "exits": {
+            "n": 64,
+            "e": 46,
+            "w": 84
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "63": {
+        "exits": {
+            "n": 72,
+            "s": 20,
+            "w": 73
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "64": {
+        "exits": {
+            "s": 62,
+            "w": 82
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "65": {
+        "exits": {
+            "n": 74,
+            "e": 58,
+            "w": 139
+        },
+        "items": [
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "66": {
+        "exits": {
+            "n": 169,
+            "e": 123,
+            "w": 38
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "67": {
+        "exits": {
+            "e": 16,
+            "w": 162
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "68": {
+        "exits": {
+            "n": 52,
+            "e": 100
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "69": {
+        "exits": {
+            "n": 94,
+            "s": 51,
+            "e": 103
+        },
+        "items": [
+            "shiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "70": {
+        "exits": {
+            "s": 163,
+            "e": 60,
+            "w": 98
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 2,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "71": {
+        "exits": {
+            "s": 47
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "72": {
+        "exits": {
+            "s": 63,
+            "w": 76
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "73": {
+        "exits": {
+            "e": 63
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "74": {
+        "exits": {
+            "n": 87,
+            "s": 65,
+            "w": 161
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "76": {
+        "exits": {
+            "n": 83,
+            "e": 72,
+            "w": 110
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "77": {
+        "exits": {
+            "e": 19
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "78": {
+        "exits": {
+            "n": 22,
+            "s": 108
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 4,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "79": {
+        "exits": {
+            "n": 49
+        },
+        "items": [
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "80": {
+        "exits": {
+            "n": 42,
+            "s": 81,
+            "e": 86
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "81": {
+        "exits": {
+            "n": 80
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "82": {
+        "exits": {
+            "n": 191,
+            "e": 64
+        },
+        "items": [
+            "tiny treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "83": {
+        "exits": {
+            "s": 76,
+            "e": 130,
+            "w": 125
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "84": {
+        "exits": {
+            "e": 62,
+            "w": 91
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "86": {
+        "exits": {
+            "s": 96,
+            "e": 90,
+            "w": 80
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "87": {
+        "exits": {
+            "s": 74
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "88": {
+        "exits": {
+            "e": 53,
+            "w": 122
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "89": {
+        "exits": {
+            "n": 50,
+            "s": 93
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are at the base of a large, looming mountain.",
+        "elevation": 1,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "90": {
+        "exits": {
+            "e": 178,
+            "w": 86
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "91": {
+        "exits": {
+            "n": 180,
+            "s": 101,
+            "e": 84,
+            "w": 99
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "92": {
+        "exits": {
+            "w": 59
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "93": {
+        "exits": {
+            "n": 89,
+            "w": 108
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 2,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "94": {
+        "exits": {
+            "n": 152,
+            "s": 69
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "95": {
+        "exits": {
+            "n": 119,
+            "s": 53,
+            "w": 115
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "96": {
+        "exits": {
+            "n": 86,
+            "e": 97
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "97": {
+        "exits": {
+            "e": 181,
+            "w": 96
+        },
+        "items": [
+            "shiny treasure",
+            "tiny treasure",
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "98": {
+        "exits": {
+            "n": 102,
+            "s": 126,
+            "e": 70,
+            "w": 109
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are at the base of a large, looming mountain.",
+        "elevation": 1,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "99": {
+        "exits": {
+            "n": 190,
+            "e": 91,
+            "w": 146
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "100": {
+        "exits": {
+            "s": 106,
+            "e": 112,
+            "w": 68
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "101": {
+        "exits": {
+            "n": 91,
+            "w": 113
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "102": {
+        "exits": {
+            "s": 98,
+            "w": 142
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "103": {
+        "exits": {
+            "n": 160,
+            "w": 69
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "104": {
+        "exits": {
+            "n": 59,
+            "e": 107
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "105": {
+        "exits": {
+            "n": 48,
+            "w": 202
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 2,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "106": {
+        "exits": {
+            "n": 100,
+            "s": false,
+            "w": 135
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "107": {
+        "exits": {
+            "s": 120,
+            "e": 121,
+            "w": 104
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "108": {
+        "exits": {
+            "n": 78,
+            "s": 117,
+            "e": 93
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 3,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "109": {
+        "exits": {
+            "s": 185,
+            "e": 98,
+            "w": 175
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "110": {
+        "exits": {
+            "e": 76
+        },
+        "items": [
+            "tiny treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "112": {
+        "exits": {
+            "s": 141,
+            "e": 140,
+            "w": 100
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "113": {
+        "exits": {
+            "s": 114,
+            "e": 101
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "114": {
+        "exits": {
+            "n": 113,
+            "w": 176
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "115": {
+        "exits": {
+            "n": 116,
+            "e": 95
+        },
+        "items": [
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "116": {
+        "exits": {
+            "n": 132,
+            "s": 115
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "117": {
+        "exits": {
+            "n": 108,
+            "s": 131,
+            "e": 166,
+            "w": 133
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 2,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "118": {
+        "exits": {
+            "e": 137,
+            "w": 42
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "119": {
+        "exits": {
+            "n": 134,
+            "s": 95
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "120": {
+        "exits": {
+            "n": 107,
+            "e": 127
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "121": {
+        "exits": {
+            "n": 128,
+            "e": 143,
+            "w": 107
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "122": {
+        "exits": {
+            "n": 124,
+            "e": 88
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure",
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "123": {
+        "exits": {
+            "w": 66
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "124": {
+        "exits": {
+            "n": 157,
+            "s": 122
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "125": {
+        "exits": {
+            "n": 165,
+            "e": 83,
+            "w": 237
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "126": {
+        "exits": {
+            "n": 98,
+            "s": 129
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "127": {
+        "exits": {
+            "e": 184,
+            "w": 120
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "128": {
+        "exits": {
+            "s": 121,
+            "e": 189
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "129": {
+        "exits": {
+            "n": 126,
+            "e": 194,
+            "w": false
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "130": {
+        "exits": {
+            "w": 83
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "131": {
+        "exits": {
+            "n": 117,
+            "s": 244,
+            "w": false
+        },
+        "items": [],
+        "title": "Mt. Holloway",
+        "description": "You are at the base of a large, looming mountain.",
+        "elevation": 1,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "132": {
+        "exits": {
+            "s": 116
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "133": {
+        "exits": {
+            "e": 117,
+            "w": 173
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "Mt. Holloway",
+        "description": "You are at the base of a large, looming mountain.",
+        "elevation": 1,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked east.",
+            "Uphill Penalty: 5s CD"
+        ]
+    },
+    "134": {
+        "exits": {
+            "n": 147,
+            "s": 119,
+            "e": 144
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "135": {
+        "exits": {
+            "s": 150,
+            "e": 106
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "136": {
+        "exits": {
+            "e": 49,
+            "w": 148
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "137": {
+        "exits": {
+            "w": 118
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "139": {
+        "exits": {
+            "e": 65,
+            "w": 188
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "140": {
+        "exits": {
+            "w": 112
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "141": {
+        "exits": {
+            "n": 112,
+            "e": 156
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "142": {
+        "exits": {
+            "e": 102,
+            "w": 159
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "143": {
+        "exits": {
+            "e": 212,
+            "w": 121
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "144": {
+        "exits": {
+            "e": 155,
+            "w": 134
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "145": {
+        "exits": {
+            "n": 174,
+            "e": 220,
+            "w": 57
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "146": {
+        "exits": {
+            "n": 215,
+            "s": 177,
+            "e": 99,
+            "w": 257
+        },
+        "items": [
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "147": {
+        "exits": {
+            "n": 200,
+            "s": 134,
+            "e": 153,
+            "w": 151
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "148": {
+        "exits": {
+            "e": 136,
+            "w": 292
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "149": {
+        "exits": {
+            "e": 48
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "Mt. Holloway",
+        "description": "You are on the side of a steep incline.",
+        "elevation": 2,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "150": {
+        "exits": {
+            "n": 135,
+            "w": 166
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "151": {
+        "exits": {
+            "n": 172,
+            "e": 147,
+            "w": 207
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "152": {
+        "exits": {
+            "s": 94
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "153": {
+        "exits": {
+            "e": 329,
+            "w": 147
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "155": {
+        "exits": {
+            "s": 187,
+            "e": 316,
+            "w": 144
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "156": {
+        "exits": {
+            "s": 168,
+            "e": 164,
+            "w": 141
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "157": {
+        "exits": {
+            "n": 210,
+            "s": 124,
+            "w": 182
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "159": {
+        "exits": {
+            "e": 142,
+            "w": 196
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "160": {
+        "exits": {
+            "s": 103
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "161": {
+        "exits": {
+            "e": 74
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "162": {
+        "exits": {
+            "e": 67
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "163": {
+        "exits": {
+            "n": 70
+        },
+        "items": [
+            "shiny treasure"
+        ],
+        "title": "Mt. Holloway",
+        "description": "You are at the base of a large, looming mountain.",
+        "elevation": 1,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "164": {
+        "exits": {
+            "n": 217,
+            "e": 298,
+            "w": 156
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "165": {
+        "exits": {
+            "n": 203,
+            "s": 125,
+            "w": 204
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "166": {
+        "exits": {
+            "s": 198,
+            "e": 150,
+            "w": 117
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "Mt. Holloway",
+        "description": "You are at the base of a large, looming mountain.",
+        "elevation": 1,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked north.",
+            "Uphill Penalty: 5s CD"
+        ]
+    },
+    "168": {
+        "exits": {
+            "n": 156,
+            "e": 340
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "169": {
+        "exits": {
+            "s": 66,
+            "e": 186
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "171": {
+        "exits": {
+            "e": 61
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "172": {
+        "exits": {
+            "n": 267,
+            "s": 151
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "173": {
+        "exits": {
+            "e": 133,
+            "w": 214
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "174": {
+        "exits": {
+            "n": 192,
+            "s": 145,
+            "e": 224
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "175": {
+        "exits": {
+            "s": 183,
+            "e": 109,
+            "w": 179
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "176": {
+        "exits": {
+            "e": 114,
+            "w": 402
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "177": {
+        "exits": {
+            "n": 146,
+            "w": 346
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "178": {
+        "exits": {
+            "n": 209,
+            "e": 243,
+            "w": 90
+        },
+        "items": [
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "179": {
+        "exits": {
+            "s": 233,
+            "e": 175,
+            "w": 213
+        },
+        "items": [
+            "small treasure",
+            "small treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "180": {
+        "exits": {
+            "s": 91
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "181": {
+        "exits": {
+            "w": 97
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "182": {
+        "exits": {
+            "e": 157,
+            "w": 208
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "183": {
+        "exits": {
+            "n": 175,
+            "s": 229
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "184": {
+        "exits": {
+            "e": 221,
+            "w": 127
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "185": {
+        "exits": {
+            "n": 109
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "186": {
+        "exits": {
+            "e": 205,
+            "w": 169
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "187": {
+        "exits": {
+            "n": 155
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "188": {
+        "exits": {
+            "e": 139,
+            "w": 335
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "189": {
+        "exits": {
+            "e": 255,
+            "w": 128
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "190": {
+        "exits": {
+            "s": 99
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "191": {
+        "exits": {
+            "s": 82
+        },
+        "items": [
+            "tiny treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "192": {
+        "exits": {
+            "n": 201,
+            "s": 174,
+            "e": 223
+        },
+        "items": [
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "194": {
+        "exits": {
+            "s": 214,
+            "w": 129
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "196": {
+        "exits": {
+            "n": 222,
+            "e": 159,
+            "w": 197
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "197": {
+        "exits": {
+            "n": 232,
+            "e": 196,
+            "w": 276
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "198": {
+        "exits": {
+            "n": 166,
+            "s": 239,
+            "e": false
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "200": {
+        "exits": {
+            "n": 227,
+            "s": 147,
+            "e": 206
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "201": {
+        "exits": {
+            "s": 192
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "202": {
+        "exits": {
+            "e": 105
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "Mt. Holloway",
+        "description": "You are at the base of a large, looming mountain.",
+        "elevation": 1,
+        "terrain": "MOUNTAIN",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "203": {
+        "exits": {
+            "n": 268,
+            "s": 165,
+            "e": false
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "204": {
+        "exits": {
+            "n": 219,
+            "e": 165,
+            "w": 216
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "205": {
+        "exits": {
+            "s": 241,
+            "e": 479,
+            "w": 186
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "206": {
+        "exits": {
+            "n": 288,
+            "e": 380,
+            "w": 200
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "207": {
+        "exits": {
+            "n": 231,
+            "e": 151,
+            "w": 290
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "208": {
+        "exits": {
+            "e": 182
+        },
+        "items": [
+            "shiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "209": {
+        "exits": {
+            "s": 178
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "210": {
+        "exits": {
+            "s": 157
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure",
+            "tiny treasure",
+            "shiny treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "212": {
+        "exits": {
+            "w": 143
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "213": {
+        "exits": {
+            "e": 179,
+            "w": 420
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "214": {
+        "exits": {
+            "n": 194,
+            "e": 173,
+            "w": false
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "215": {
+        "exits": {
+            "n": 246,
+            "s": 146
+        },
+        "items": [
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "216": {
+        "exits": {
+            "n": 234,
+            "e": 204,
+            "w": 218
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "217": {
+        "exits": {
+            "s": 164,
+            "e": 247
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "218": {
+        "exits": {
+            "s": 263,
+            "e": 216,
+            "w": 242
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "219": {
+        "exits": {
+            "s": 204
+        },
+        "items": [
+            "shiny treasure",
+            "shiny treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "220": {
+        "exits": {
+            "w": 145
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "221": {
+        "exits": {
+            "s": 253,
+            "e": 240,
+            "w": 184
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "222": {
+        "exits": {
+            "n": 305,
+            "s": 196
+        },
+        "items": [
+            "small treasure",
+            "small treasure",
+            "small treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "223": {
+        "exits": {
+            "n": 283,
+            "w": 192
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "224": {
+        "exits": {
+            "w": 174
+        },
+        "items": [
+            "shiny treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "227": {
+        "exits": {
+            "n": 269,
+            "s": 200
+        },
+        "items": [
+            "shiny treasure",
+            "small treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "229": {
+        "exits": {
+            "n": 183,
+            "s": 250,
+            "w": 236
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "231": {
+        "exits": {
+            "s": 207,
+            "w": 248
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "232": {
+        "exits": {
+            "n": 272,
+            "s": 197,
+            "w": 235
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "233": {
+        "exits": {
+            "n": 179,
+            "w": 238
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "234": {
+        "exits": {
+            "n": 368,
+            "s": 216,
+            "w": 252
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "235": {
+        "exits": {
+            "n": 330,
+            "e": 232,
+            "w": 355
+        },
+        "items": [
+            "small treasure",
+            "small treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "236": {
+        "exits": {
+            "s": 264,
+            "e": 229
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "237": {
+        "exits": {
+            "e": 125,
+            "w": 245
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "238": {
+        "exits": {
+            "e": 233
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "239": {
+        "exits": {
+            "n": 198,
+            "w": 244
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "240": {
+        "exits": {
+            "n": 249,
+            "e": 386,
+            "w": 221
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "241": {
+        "exits": {
+            "n": 205,
+            "e": 266
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "242": {
+        "exits": {
+            "n": 287,
+            "s": 259,
+            "e": 218,
+            "w": 275
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "TRAP",
+        "errors": [],
+        "messages": [
+            "You have walked west.",
+            "It's a trap!: +30s CD"
+        ]
+    },
+    "243": {
+        "exits": {
+            "s": 293,
+            "e": 256,
+            "w": 178
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "244": {
+        "exits": {
+            "n": 131,
+            "e": 239
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "245": {
+        "exits": {
+            "s": 254,
+            "e": 237
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "246": {
+        "exits": {
+            "s": 215
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "247": {
+        "exits": {
+            "e": 261,
+            "w": 217
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "248": {
+        "exits": {
+            "n": 296,
+            "e": 231,
+            "w": 280
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "249": {
+        "exits": {
+            "n": 265,
+            "s": 240,
+            "e": 282
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "250": {
+        "exits": {
+            "n": 229,
+            "s": 294,
+            "e": 289
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "252": {
+        "exits": {
+            "n": 284,
+            "e": 234
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "253": {
+        "exits": {
+            "n": 221,
+            "e": 258
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "254": {
+        "exits": {
+            "n": 245,
+            "w": false
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "255": {
+        "exits": {
+            "w": 189
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "256": {
+        "exits": {
+            "s": 360,
+            "e": 327,
+            "w": 243
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "257": {
+        "exits": {
+            "n": 320,
+            "e": 146,
+            "w": 364
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "258": {
+        "exits": {
+            "e": 306,
+            "w": 253
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "259": {
+        "exits": {
+            "n": 242,
+            "w": 310
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "261": {
+        "exits": {
+            "s": 277,
+            "e": 322,
+            "w": 247
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "263": {
+        "exits": {
+            "n": 218
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "264": {
+        "exits": {
+            "n": 236,
+            "s": 274,
+            "w": 273
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "265": {
+        "exits": {
+            "n": 279,
+            "s": 249,
+            "e": 270
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "266": {
+        "exits": {
+            "w": 241
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "267": {
+        "exits": {
+            "n": 285,
+            "s": 172,
+            "w": 271
+        },
+        "items": [
+            "small treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "268": {
+        "exits": {
+            "s": 203,
+            "e": false,
+            "w": false
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "269": {
+        "exits": {
+            "n": 319,
+            "s": 227
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "270": {
+        "exits": {
+            "n": 416,
+            "e": 338,
+            "w": 265
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "271": {
+        "exits": {
+            "n": 337,
+            "e": 267
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "272": {
+        "exits": {
+            "n": 295,
+            "s": 232
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "273": {
+        "exits": {
+            "n": 343,
+            "e": 264
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "274": {
+        "exits": {
+            "n": 264,
+            "w": 308
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "275": {
+        "exits": {
+            "e": 242,
+            "w": 456
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You notice a cave entrance to the east and cliffside landmark to the west.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "276": {
+        "exits": {
+            "e": 197,
+            "w": 419
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "277": {
+        "exits": {
+            "n": 261,
+            "e": 323
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "279": {
+        "exits": {
+            "s": 265
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "280": {
+        "exits": {
+            "n": 325,
+            "e": 248
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "282": {
+        "exits": {
+            "w": 249
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "283": {
+        "exits": {
+            "n": 331,
+            "s": 223,
+            "e": 313
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "284": {
+        "exits": {
+            "n": 302,
+            "s": 252,
+            "w": 303
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "285": {
+        "exits": {
+            "n": 286,
+            "s": 267
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "286": {
+        "exits": {
+            "n": 336,
+            "s": 285,
+            "w": 291
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "287": {
+        "exits": {
+            "s": 242,
+            "w": 339
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "288": {
+        "exits": {
+            "s": 206
+        },
+        "items": [
+            "small treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "289": {
+        "exits": {
+            "w": 250
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "290": {
+        "exits": {
+            "e": 207
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "291": {
+        "exits": {
+            "n": 410,
+            "e": 286,
+            "w": 347
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "292": {
+        "exits": {
+            "n": 301,
+            "e": 148
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "293": {
+        "exits": {
+            "n": 243
+        },
+        "items": [
+            "small treasure",
+            "small treasure",
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "294": {
+        "exits": {
+            "n": 250,
+            "s": 334
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "295": {
+        "exits": {
+            "s": 272
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "296": {
+        "exits": {
+            "s": 248
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "298": {
+        "exits": {
+            "s": 324,
+            "w": 164
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "301": {
+        "exits": {
+            "n": 304,
+            "s": 292
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "302": {
+        "exits": {
+            "n": 422,
+            "s": 284
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "TRAP",
+        "errors": [],
+        "messages": [
+            "You have walked north.",
+            "It's a trap!: +30s CD"
+        ]
+    },
+    "303": {
+        "exits": {
+            "n": 361,
+            "e": 284,
+            "w": 405
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "304": {
+        "exits": {
+            "s": 301
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "305": {
+        "exits": {
+            "n": 365,
+            "s": 222
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure",
+            "small treasure",
+            "small treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "306": {
+        "exits": {
+            "e": 397,
+            "w": 258
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "308": {
+        "exits": {
+            "e": 274
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "310": {
+        "exits": {
+            "e": 259,
+            "w": 412
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "313": {
+        "exits": {
+            "w": 283
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "316": {
+        "exits": {
+            "n": 344,
+            "w": 155
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "319": {
+        "exits": {
+            "n": 359,
+            "s": 269,
+            "e": 345
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "320": {
+        "exits": {
+            "n": 348,
+            "s": 257
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "322": {
+        "exits": {
+            "n": 382,
+            "e": 435,
+            "w": 261
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "323": {
+        "exits": {
+            "e": 433,
+            "w": 277
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "324": {
+        "exits": {
+            "n": 298,
+            "s": 349,
+            "e": 354
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "325": {
+        "exits": {
+            "n": 353,
+            "s": 280,
+            "w": 374
+        },
+        "items": [
+            "tiny treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "327": {
+        "exits": {
+            "e": 427,
+            "w": 256
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "329": {
+        "exits": {
+            "w": 153
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "330": {
+        "exits": {
+            "n": 369,
+            "s": 235,
+            "w": 383
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "331": {
+        "exits": {
+            "s": 283,
+            "e": 446
+        },
+        "items": [
+            "small treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "334": {
+        "exits": {
+            "n": 294,
+            "s": 393,
+            "e": 341,
+            "w": 391
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "335": {
+        "exits": {
+            "e": 188,
+            "w": 366
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "336": {
+        "exits": {
+            "s": 286
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "337": {
+        "exits": {
+            "s": 271
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "338": {
+        "exits": {
+            "s": 379,
+            "w": 270
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "339": {
+        "exits": {
+            "e": 287,
+            "w": 445
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "TRAP",
+        "errors": [],
+        "messages": [
+            "You have walked west.",
+            "It's a trap!: +30s CD"
+        ]
+    },
+    "340": {
+        "exits": {
+            "w": 168
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "341": {
+        "exits": {
+            "s": 449,
+            "w": 334
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "343": {
+        "exits": {
+            "s": 273,
+            "w": 351
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "344": {
+        "exits": {
+            "n": 392,
+            "s": 316,
+            "e": 390
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "345": {
+        "exits": {
+            "s": 375,
+            "w": 319
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "346": {
+        "exits": {
+            "e": 177
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "347": {
+        "exits": {
+            "n": 452,
+            "s": 442,
+            "e": 291
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure",
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "348": {
+        "exits": {
+            "s": 320
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "349": {
+        "exits": {
+            "n": 324,
+            "s": 352,
+            "e": 384,
+            "w": 356
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "351": {
+        "exits": {
+            "s": 491,
+            "e": 343,
+            "w": 478
+        },
+        "items": [
+            "small treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "352": {
+        "exits": {
+            "n": 349,
+            "s": 362,
+            "e": 485
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "353": {
+        "exits": {
+            "s": 325
+        },
+        "items": [
+            "tiny treasure",
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "354": {
+        "exits": {
+            "w": 324
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "355": {
+        "exits": {
+            "e": 235
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "356": {
+        "exits": {
+            "e": 349
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "359": {
+        "exits": {
+            "s": 319
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "360": {
+        "exits": {
+            "n": 256,
+            "e": 398
+        },
+        "items": [
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "361": {
+        "exits": {
+            "n": 408,
+            "s": 303
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "TRAP",
+        "errors": [],
+        "messages": [
+            "You have walked north.",
+            "It's a trap!: +30s CD"
+        ]
+    },
+    "362": {
+        "exits": {
+            "n": 352,
+            "s": 399,
+            "w": 463
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "364": {
+        "exits": {
+            "n": 429,
+            "s": 381,
+            "e": 257,
+            "w": 448
+        },
+        "items": [
+            "small treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "365": {
+        "exits": {
+            "s": 305
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "366": {
+        "exits": {
+            "e": 335
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "368": {
+        "exits": {
+            "s": 234
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "369": {
+        "exits": {
+            "n": 400,
+            "s": 330,
+            "w": 376
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "374": {
+        "exits": {
+            "e": 325
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "375": {
+        "exits": {
+            "n": 345,
+            "e": 385
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "376": {
+        "exits": {
+            "e": 369
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "379": {
+        "exits": {
+            "n": 338,
+            "e": 395
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "380": {
+        "exits": {
+            "n": 424,
+            "w": 206
+        },
+        "items": [
+            "tiny treasure",
+            "shiny treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "381": {
+        "exits": {
+            "n": 364,
+            "w": 394
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "382": {
+        "exits": {
+            "s": 322,
+            "e": 388
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "383": {
+        "exits": {
+            "e": 330,
+            "w": 495
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "384": {
+        "exits": {
+            "w": 349
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "385": {
+        "exits": {
+            "w": 375
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "386": {
+        "exits": {
+            "e": 414,
+            "w": 240
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "388": {
+        "exits": {
+            "e": 477,
+            "w": 382
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "390": {
+        "exits": {
+            "w": 344
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "391": {
+        "exits": {
+            "s": 396,
+            "e": 334,
+            "w": 428
+        },
+        "items": [
+            "shiny treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "392": {
+        "exits": {
+            "s": 344,
+            "e": 462
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "393": {
+        "exits": {
+            "n": 334,
+            "s": 482
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure",
+            "small treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "394": {
+        "exits": {
+            "e": 381
+        },
+        "items": [
+            "small treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "395": {
+        "exits": {
+            "s": 403,
+            "e": 421,
+            "w": 379
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "396": {
+        "exits": {
+            "n": 391
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "397": {
+        "exits": {
+            "w": 306
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure",
+            "shiny treasure",
+            "small treasure",
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "398": {
+        "exits": {
+            "e": 438,
+            "w": 360
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "399": {
+        "exits": {
+            "n": 362,
+            "s": 467
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "400": {
+        "exits": {
+            "s": 369
+        },
+        "items": [
+            "tiny treasure",
+            "small treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "402": {
+        "exits": {
+            "e": 176,
+            "w": 451
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "403": {
+        "exits": {
+            "n": 395
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "405": {
+        "exits": {
+            "n": 406,
+            "e": 303
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "406": {
+        "exits": {
+            "s": 405,
+            "w": 415
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "408": {
+        "exits": {
+            "n": 458,
+            "s": 361,
+            "w": 423
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "410": {
+        "exits": {
+            "s": 291
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "412": {
+        "exits": {
+            "s": 488,
+            "e": 310
+        },
+        "items": [
+            "small treasure",
+            "small treasure"
+        ],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "414": {
+        "exits": {
+            "w": 386
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "415": {
+        "exits": {
+            "e": 406,
+            "w": 418
+        },
+        "items": [
+            "small treasure",
+            "small treasure"
+        ],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "TRAP",
+        "errors": [],
+        "messages": [
+            "You have walked west.",
+            "It's a trap!: +30s CD"
+        ]
+    },
+    "416": {
+        "exits": {
+            "s": 270
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "418": {
+        "exits": {
+            "n": 425,
+            "s": 474,
+            "e": 415
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "419": {
+        "exits": {
+            "e": 276
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "420": {
+        "exits": {
+            "s": 444,
+            "e": 213,
+            "w": 437
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "421": {
+        "exits": {
+            "n": 440,
+            "w": 395
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "422": {
+        "exits": {
+            "n": 426,
+            "s": 302
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "TRAP",
+        "errors": [],
+        "messages": [
+            "You have walked north.",
+            "It's a trap!: +30s CD"
+        ]
+    },
+    "423": {
+        "exits": {
+            "e": 408,
+            "w": 454
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "424": {
+        "exits": {
+            "s": 380,
+            "e": 473
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "425": {
+        "exits": {
+            "s": 418,
+            "w": 469
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "426": {
+        "exits": {
+            "n": 457,
+            "s": 422
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "TRAP",
+        "errors": [],
+        "messages": [
+            "You have walked north.",
+            "It's a trap!: +30s CD"
+        ]
+    },
+    "427": {
+        "exits": {
+            "e": 430,
+            "w": 327
+        },
+        "items": [
+            "shiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "428": {
+        "exits": {
+            "e": 391
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "429": {
+        "exits": {
+            "s": 364
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "430": {
+        "exits": {
+            "n": 443,
+            "e": 439,
+            "w": 427
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "433": {
+        "exits": {
+            "s": 455,
+            "e": 460,
+            "w": 323
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "435": {
+        "exits": {
+            "w": 322
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "437": {
+        "exits": {
+            "e": 420,
+            "w": false
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "438": {
+        "exits": {
+            "e": 465,
+            "w": 398
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "439": {
+        "exits": {
+            "w": 430
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "440": {
+        "exits": {
+            "s": 421,
+            "w": 476
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "442": {
+        "exits": {
+            "n": 347
+        },
+        "items": [
+            "small treasure",
+            "shiny treasure",
+            "shiny treasure",
+            "small treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "443": {
+        "exits": {
+            "s": 430,
+            "e": 471
+        },
+        "items": [
+            "small treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "444": {
+        "exits": {
+            "n": 420,
+            "w": 490
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "445": {
+        "exits": {
+            "n": 447,
+            "e": 339,
+            "w": 450
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "446": {
+        "exits": {
+            "e": 466,
+            "w": 331
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "447": {
+        "exits": {
+            "s": 445
+        },
+        "items": [
+            "small treasure",
+            "shiny treasure"
+        ],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "448": {
+        "exits": {
+            "e": 364
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "449": {
+        "exits": {
+            "n": 341
+        },
+        "items": [
+            "small treasure",
+            "shiny treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "450": {
+        "exits": {
+            "e": 445
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "451": {
+        "exits": {
+            "e": 402,
+            "w": 453
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "452": {
+        "exits": {
+            "s": 347
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "453": {
+        "exits": {
+            "s": 464,
+            "e": 451
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "454": {
+        "exits": {
+            "n": 470,
+            "e": 423
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "455": {
+        "exits": {
+            "n": 433
+        },
+        "items": [
+            "tiny treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "456": {
+        "exits": {
+            "e": 275,
+            "w": 499
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You notice a cave entrance to the east and cliffside landmark to the west.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "457": {
+        "exits": {
+            "n": 461,
+            "s": 426
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "TRAP",
+        "errors": [],
+        "messages": [
+            "You have walked north.",
+            "It's a trap!: +30s CD"
+        ]
+    },
+    "458": {
+        "exits": {
+            "s": 408,
+            "w": 459
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "459": {
+        "exits": {
+            "e": 458
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "460": {
+        "exits": {
+            "w": 433
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "461": {
+        "exits": {
+            "s": 457
+        },
+        "items": [],
+        "title": "Linh's Shrine",
+        "description": "You are standing before a glowing shrine to a Linh, the Swift. She looks quite fast.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "462": {
+        "exits": {
+            "w": 392
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "463": {
+        "exits": {
+            "s": 468,
+            "e": 362
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "464": {
+        "exits": {
+            "n": 453
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "465": {
+        "exits": {
+            "e": 498,
+            "w": 438
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "466": {
+        "exits": {
+            "s": 486,
+            "e": 472,
+            "w": 446
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "467": {
+        "exits": {
+            "n": 399
+        },
+        "items": [],
+        "title": "Pirate Ry's",
+        "description": "You see a sign before you that reads:\n\n'You have found Pirate Ry's. Send a `change_name` request and I'll change your identity to whatever you wish... for a price.'",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "468": {
+        "exits": {
+            "n": 463
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "469": {
+        "exits": {
+            "e": 425
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "470": {
+        "exits": {
+            "s": 454
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked north."
+        ]
+    },
+    "471": {
+        "exits": {
+            "w": 443
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "472": {
+        "exits": {
+            "w": 466
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "473": {
+        "exits": {
+            "e": 494,
+            "w": 424
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "474": {
+        "exits": {
+            "n": 418
+        },
+        "items": [],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "476": {
+        "exits": {
+            "e": 440
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "477": {
+        "exits": {
+            "e": 483,
+            "w": 388
+        },
+        "items": [
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "478": {
+        "exits": {
+            "e": 351
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "479": {
+        "exits": {
+            "w": 205
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "482": {
+        "exits": {
+            "n": 393
+        },
+        "items": [
+            "tiny treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "483": {
+        "exits": {
+            "w": 477
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "485": {
+        "exits": {
+            "w": 352
+        },
+        "items": [],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "486": {
+        "exits": {
+            "n": 466
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "488": {
+        "exits": {
+            "n": 412
+        },
+        "items": [
+            "small treasure",
+            "small treasure"
+        ],
+        "title": "A Dark Cave",
+        "description": "You are standing in a dark cave.",
+        "elevation": 0,
+        "terrain": "CAVE",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "490": {
+        "exits": {
+            "e": 444,
+            "w": 493
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "491": {
+        "exits": {
+            "n": 351
+        },
+        "items": [
+            "shiny treasure",
+            "tiny treasure",
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked south."
+        ]
+    },
+    "493": {
+        "exits": {
+            "e": 490
+        },
+        "items": [
+            "tiny treasure",
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "494": {
+        "exits": {
+            "w": 473
+        },
+        "items": [
+            "tiny treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "495": {
+        "exits": {
+            "e": 383
+        },
+        "items": [
+            "small treasure",
+            "tiny treasure"
+        ],
+        "title": "The Transmogriphier",
+        "description": "A strange machine stands in this room.  There is a large opening on the top.  A placard reads, \"Test your luck!  One item and one Lambdacoin!\"",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    },
+    "498": {
+        "exits": {
+            "w": 465
+        },
+        "items": [
+            "shiny treasure",
+            "small treasure"
+        ],
+        "title": "A misty room",
+        "description": "You are standing on grass and surrounded by a dense mist. You can barely make out the exits in any direction.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked east."
+        ]
+    },
+    "499": {
+        "exits": {
+            "e": 456
+        },
+        "items": [],
+        "title": "Glasowyn's Grave",
+        "description": "You see a moss-topped gravestone which reads: 'Here lies Glasowyn of Web17/Labs12/CS18, who was crushed under the weight of her own gold.' There doesn't seem to be any gold around, but marks in the dirt suggest that someone has knelt there, perhaps in prayer.",
+        "elevation": 0,
+        "terrain": "NORMAL",
+        "errors": [],
+        "messages": [
+            "You have walked west."
+        ]
+    }
+}
